@@ -83,17 +83,11 @@ I enjoy working on **real-world datasets**, building **interactive dashboards**,
 
 ---
 
-## 📊 GitHub Stats
-![Harshitpantt GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitpantt&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitpantt&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn profile link)*
-- 📧 Email: *(add your professional email)*
-- 🌐 Portfolio: *(optional)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/harshit-pant-0b7295256/*
+- 📧 Email: *pantharshit555@gmail.com*
+
 
 ---
 
