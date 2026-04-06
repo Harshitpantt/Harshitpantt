@@ -86,5 +86,6 @@ Bennett University (Expected 2026)
 - 💻 GitHub: https://github.com/Harshitpantt  
 
 ---
+_If you're building in the early stage and need help with strategy, GTM, or operations, feel free to reach out._
 
 ⭐ If you find my work interesting, feel free to explore my repositories.
